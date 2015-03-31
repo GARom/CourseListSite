@@ -18,5 +18,5 @@ angular.module('app').controller('mvMainCtrl', function($scope) {
     {name: 'CHEE 4321   ChE Design I', featured: true, published: new Date('10/13/2015')},
     {name: 'CHEE 4367   Chem. Reaction Engr.', featured: true, published: new Date('2/15/2015')},
     {name: 'CHEE 4322   ChE Design II', featured: true, published: new Date('7/1/2015')}
-  ]
+  ];
 });
